@@ -1,3 +1,5 @@
 Welcome to git. 
 Git is awesome!
 Exercise 7
+To show git diff
+To show git diff again
